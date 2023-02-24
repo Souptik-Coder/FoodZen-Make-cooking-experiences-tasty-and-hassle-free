@@ -1,7 +1,18 @@
 # FoodZen: Scan grocery bill to find recipes
 
-An Android application where users can scan grocery bills and find recipes based on purchased ingredients.
+Discover delicious recipes from around the world with the FoodZen App! Quickly search for recipes by name and ingredients, filter by cuisine, save your favorites, and share recipes as cards and links. With step-by-step instructions and offline caching, cooking has never been easier! Plus, you can find perfect recipes based on your grocery purchases - just scan your bill and get fantastic ideas! Trust FoodZen to make your cooking experiences tasty and hassle-free.
 
+## Screenshots
+<img src="Screenshots/SS1.jpg" width="200"/>
+<img src="Screenshots/SS2.jpg" width="200"/>
+<img src="Screenshots/SS3.jpg" width="200"/>
+<img src="Screenshots/SS4.jpg" width="200"/>
+<img src="Screenshots/SS5.jpg" width="200"/>
+<img src="Screenshots/SS6.jpg" width="200"/>
+<img src="Screenshots/SS7.jpg" width="200"/>
+<img src="Screenshots/SS8.jpg" width="200"/>
+<img src="Screenshots/SS8.jpg" width="200"/>
+<img src="Screenshots/SS8.jpg" width="200"/>
 
 ## Features
 
